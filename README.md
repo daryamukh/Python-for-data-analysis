@@ -1,7 +1,7 @@
-# Big data Superhero
+# Python for data analysis
 
 This code was prepared by me during the conduct of a webinar on the educational platform Netology.
-https://netology.ru/blog/08-2019-marafon-big-data-superhero
+ 
 
 ## We will learn how to:
 
